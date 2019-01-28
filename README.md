@@ -1,3 +1,5 @@
 # admin_template
 simple responsive admin template made by rtl bootstrap 
-![Screenshot](screenshot.png)
+<p align="center">
+  <img src="screenshot.png" width="100%" alt="admin template with bootstrap">
+</p>
